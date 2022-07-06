@@ -1,0 +1,33 @@
+El hardware ejecuta los programas que realizamos, en este caso la computadora
+
+La computadora nace con la necesidad de hacer tareas de manera más rápida por nostros.
+
+Al principio solo nos servia para hacer calculos. Tenian entrada, procesaban los datos y nos daban la salida.
+
+Actualmente nos permiten hacer juegos, manejar música, manejar carros, etc.
+
+Las computadoras funcionan con códigos binarios, uno encendido dos apagado.
+
+La computadora tiene muchos transistores que procesan los impulsos electricos de los bits, 1s o 0s, y los cables solo transportan.
+
+Para las letras usamos el código ASCI para asignarles un valor, por ejempo ALT+84 ingresara la letra T porque ese es su código ASCI 
+
+Un documento de texto es una colección de caracteres, muchos códigos en ASCIi
+Las imagenes son una representaciones de pixeles, cada pixel va a tener colores y estos estan representados por 0 y 1.
+Igual los videos, guarda cierta cantidad e imagenes por segundo.
+La música son representaciones en binario del valor que debe reproducir la computadora.
+
+El software es la serie de instrucciones que querremos que procesese la computadora.
+
+Flujo=> entrda -> CPU procesar resutlado  -> salida del resultado final
+
+Las pulgadas de las laptos y teles se mide en pulgadas de esquina a esquina
+
+* i3 game entrada
+* i5 gama normal
+* i7 gama alta
+* i9 gama superalta
+igual para ryzen
+Usar GPU de una o dos generaciones atras
+
+ME TOCA EL 6
