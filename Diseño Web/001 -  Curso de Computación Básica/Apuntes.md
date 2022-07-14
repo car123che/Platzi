@@ -1,6 +1,6 @@
 #### Impartido por: Ricardo Celis
 #### Plataforma: Platzi
-#### Link del curso: computación básica
+#### Link del curso: [Computación Básica](Test)
 #### Fecha: 07-06-2022
 # 001 - Curso de Computación Básica
 
@@ -32,7 +32,7 @@ El software es la serie de instrucciones que querremos que procesese la computad
 
 El hardware ejecuta los programas que realizamos, en este caso la computadora.
 
-Flujo=> entrada -> CPU procesar resultado  -> salida del resultado final.
+Flujo => entrada -> CPU procesar resultado  -> salida del resultado final.
 
 ## Gamas de CPU.
 * i3 game entrada

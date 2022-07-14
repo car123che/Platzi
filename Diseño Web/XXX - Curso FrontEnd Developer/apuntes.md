@@ -1,6 +1,6 @@
 #### Impartido por: Estefany Aguilar
 #### Plataforma: Platzi
-#### Link del curso: FrontEnd Developer
+#### Link del curso: [FrontEnd Developer](test)
 #### Fecha: 07-06-2022
 # XXX - Curso de FrontEnd Developer
 
@@ -103,8 +103,60 @@ Es un eje invisible, pero es el  eje de profundidad, es el eje de la pantalla ha
 
 El z-index es el orden de apilamiento uno sobre otro, siempre saldrá arriba el que tenga mayor índice, sin embargo si uno con mayor indice es hijo de otro de menor, el padre siempre saldra adelante sin importar que tan grande será el número del hijo. 
 Igual con los hermanos del padre nunca los pasará encima sin importar lo grande que sea. 
+
+## Unidades de Medida
+
+### Absolutas
+No dependen de nadie más para ser ellas mismas, ejemplos: px, pt, pc, inc, cm, mm.
+
+### Relativas
+Dependen del tamaño de pantalla del dispositivo, otros contenedores, ejemplos: vw, vh, em, rem, vmin, vmax, ex, ch.
+
+## Diseño Responsive
+Es que tu sitio se vea bien en varias medidad de pantalla.
+Para eso utilizamos media queries
+```css
+@media (max-width: 100px){
+  .clase{
+    propiedad valor;
+  }
+}
+```
+
+## Arquitecturas CSS
+Necesitamos que nuestros estilos css sean:
+* predecibles
+* reutilizables
+* mantenibles
+* escalables
+
+Una de las buenas prácticas son:
+* Tener lineamientos
+* Documentación
+* Estándares
+* Crear Componentes
+
+### OOCSS
+Tener una estructura principal, y tener capas o máscaras las cuales le darán el estilo, y son esas máscaras las que se modifican.
+
+### BEM
+Bloque - Elemento - Modificador
+Organizar en bloques que tienen elementos y esos elementos son los que modificamos.
+
+### SMACSS
+Separa los estilos por carpetas, ejemplo una carepta para el layout, otra para el module, otra para elemenots bases, otro para el tema de fondo y luego juntar todo. 
+
+### ITCSS
+Poder hacer una separación en ajustes, herramients, elementos, etc. Similar a las otras pero ordenado de manera que se priorice la especifidad.
+
+### Atomic Design
+Tenemos elementos pequeños, por ejemplos un input esos son átomos, las moléculas es como un input con boton juntos, un formulario son organismo, luego continuamos a templates y por último páginas
+
+
 ## Datos
 * en el head podemos poner el favicon que querremos que se muestre en la pestaña de la página
+
+* 1 rem = 16px. Se pude modificar el tamaño default para que no sean 16px, poner etiqueta html en css, y poner el porcentaje de font-size que se quiere modificar. Hacer regla de 3 para poder cambiar ese porcentaje base 100% = 16px...
 
 
 
@@ -128,20 +180,22 @@ Igual con los hermanos del padre nunca los pasará encima sin importar lo grande
 * [juego de css grid](https://cssgridgarden.com/#es)
 
 ## LINKS IMPORTANTES 
-https://htmlreference.io/
+* [Guia de HTML](https://htmlreference.io/)
 
+* [Guia de Css](https://cssreference.io/)
 
-https://specificity.keegan.st/
-especificidad selectores
+* [especificidad selectores](https://specificity.keegan.st/)
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
-pseudoclaes y PSEDUCOELEMENTOS
+* [pseudoclaes y PSEDUCOELEMENTOS](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 
-https://htmlcolorcodes.com/es/
-colores html
+* [colores html](https://htmlcolorcodes.com/es/)
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-Guia de flexbox
+* [Guia de flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-https://css-tricks.com/snippets/css/complete-guide-grid/
-Guia CSS Grid
+* [Guia CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/
+)
+
+* [Guia BEM](https://platzi.com/blog/bem/)
+
+## Diploma
+* [Link Diploma](https://platzi.com/p/carlos123che123/curso/2467-frontend-developer/diploma/detalle/)
