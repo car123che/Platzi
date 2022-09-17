@@ -1,6 +1,6 @@
 #### Impartido por: Estefany Aguilar
 #### Plataforma: Platzi
-#### Link del curso: [FrontEnd Developer](test)
+#### Link del curso: [FrontEnd Developer]([test](https://platzi.com/cursos/frontend-developer/))
 #### Fecha: 07-06-2022
 # XXX - Curso de FrontEnd Developer
 

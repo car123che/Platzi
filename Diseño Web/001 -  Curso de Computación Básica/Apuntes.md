@@ -42,4 +42,36 @@ Flujo => entrada -> CPU procesar resultado  -> salida del resultado final.
 igual para ryzen
 Usar CPU de una o dos generaciones atras.
 
-TOCA EL DE COMO CREAR UNA CUENTA DE GMAIL
+## Programas de Diseño
+* Photoshop, imagenes, dibujos y mezclas
+* After Effects, dibujos animados.
+* Illustrator, gráficos dibujados y a partir de imagenes. 
+
+## ¿Qué es un virus informático?
+Siempre que navegamos estamos expuestos a virus, creados por alguien más para dañar nuestro equipo. 
+
+Estan diseñados para replicarse y ocasionar algo en nuestro sistema.
+
+Estos pueden viajar en archivos que parecen fotos, videos, pdf, software, los elementos para piratear el software.
+Pueden venir en documentos.
+
+Tipos de virus:
+* De Gusano
+  * Se replica en masa
+* Adware
+  * Te llena de publicidad
+* Spyware
+  * Te espia sin darte cuenta
+* Ransomware
+  * Encripta archivos
+* Troyanos
+  * Viene disfrazados de un programa util
+* Botnet
+  * Usa tu computadora como bot
+
+Como detectarlos virus:
+* Computadora más lenta
+* Envio de correos que no fuiste tu
+* Mucha publicidad
+* Cualquier comportamiento raro
+* Cambio tu inicio del navegador
