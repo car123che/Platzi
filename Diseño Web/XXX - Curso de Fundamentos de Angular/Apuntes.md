@@ -37,4 +37,9 @@ Desarrollado por Google, Angular es más que un framework, es una plataforma que
 
 ## Configuraciones
 * .nvmrc en ese archivo se indica cual es la versión correcta de node para correr ese proyecto.
-* 
+
+## String Interpolation
+Se hace para mostrar valores de string en el archivos .ts de un componente, en la parte visual del HTML solo se necesita poner {{}}, y tambien se puede asigar el valor de una variable a la ruta del src de una imagen
+### Ejemplos
+![TS](img/StringInterpolationTS.png)
+![HTML](img/StringInterpolationHTML.png)
